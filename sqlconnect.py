@@ -4,7 +4,7 @@ import oracledb
 connection = oracledb.connect(
     user="Hannah",
     password="tuk123",
-    dsn=""
+    
 )
 
 # Query the database
